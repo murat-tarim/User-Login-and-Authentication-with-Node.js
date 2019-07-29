@@ -1,0 +1,1 @@
+ADD node modules and necessary libraries(ejs,express-session,bcrypt,passport,nodemon) before starting
